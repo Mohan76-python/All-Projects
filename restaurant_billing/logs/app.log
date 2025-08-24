@@ -1,0 +1,2 @@
+2025-08-14 20:14:02,481 - ERROR - Database error: 1045 (28000): Access denied for user 'your_username'@'localhost' (using password: YES)
+2025-08-14 20:19:43,423 - ERROR - \u274c MySQL Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
