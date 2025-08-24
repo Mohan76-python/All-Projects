@@ -1,0 +1,7 @@
+2025-08-11 10:48:26,116 - \U0001f527 Image resizing started
+2025-08-11 10:48:26,272 - \u2705 Saved: output_images\1.webp
+2025-08-11 10:48:26,381 - \u2705 Saved: output_images\2.webp
+2025-08-11 10:48:26,479 - \u2705 Saved: output_images\3.webp
+2025-08-11 10:48:26,582 - \u2705 Saved: output_images\4.webp
+2025-08-11 10:48:26,675 - \u2705 Saved: output_images\5.webp
+2025-08-11 10:48:26,676 - \u2705 Image resizing completed
